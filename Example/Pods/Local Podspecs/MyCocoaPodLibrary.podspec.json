@@ -1,0 +1,29 @@
+{
+  "name": "MyCocoaPodLibrary",
+  "version": "0.1.0",
+  "summary": "First Cocoa Pod Library",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Com-Pro-AMB-3/MyCocoaPodLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Com-Pro-AMB-3": "com.pro.amb.3@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Com-Pro-AMB-3/MyCocoaPodLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "MyCocoaPodLibrary/Classes/**/*",
+  "resource_bundles": {
+    "Resources": [
+      "MyCocoaPodLibrary/Assets/flowers.png"
+    ]
+  },
+  "swift_version": "5.0"
+}
